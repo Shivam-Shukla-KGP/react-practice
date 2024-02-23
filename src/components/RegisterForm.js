@@ -1,5 +1,5 @@
 import Button from './Button';
-import './RegisterForm.css';
+import '../style/RegisterForm.css';
 
 function RegisterForm() {
     return (

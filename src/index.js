@@ -4,7 +4,7 @@ import './index.css';
 import 'bootstrap/dist/css/bootstrap.min.css';
 
 // import App from './App';
-import RegisterForm from './RegisterForm';
+import RegisterForm from './components/RegisterForm';
 
 import reportWebVitals from './reportWebVitals';
 
