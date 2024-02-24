@@ -61,7 +61,7 @@ function RegisterForm() {
                 </form>
             </div>
         </div>
-    )
+    );
   }
 
   export default RegisterForm;
