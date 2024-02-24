@@ -18,7 +18,10 @@ function App() {
     <div className="container-fluid p-0">
       <RegisterForm/>
       <div className="row">{cards}{cards}{cards}</div>
-      <div className='footer text-center'>Copyright 2024 . All rights reserved. <a className="link" src="">Shivam Shukla</a></div>
+      <div className='footer text-center'>Copyright 2024 . All rights reserved. <a className="link" href="https://github.com/Shivam-Shukla-KGP">Shivam Shukla</a></div>
+      {/* <div class="spinner-border text-primary" role="status">
+        <span class="visually-hidden">Loading...</span>
+      </div> */}
     </div>
   );
 }
